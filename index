@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Michael Triemert Resume Website </title>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+</head>
+<body>
+		<div id="header">
+			<p id="name">Michael Triemert</p>
+			<a href="mailto:triemert.mike@gmail.com"><p id="email">triemert.mike@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
